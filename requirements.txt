@@ -1,3 +1,5 @@
 pyshorteners
 pyperclip
 validators
+gunicorn
+
